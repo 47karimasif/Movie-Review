@@ -1,0 +1,43 @@
+h5{
+  margin-top:0px;
+}
+.card .card-content .rating{
+  margin-bottom:10px;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating){
+color:#42a5f5;
+}
+.rating{
+  font-weight:600;
+}
+#review{
+  font-weight:normal;
+  font-family: "Times New Roman";
+  border-left:solid 5px;
+}
+.moviename{
+  font-weight:800;
+  font-family: "Times New Roman", Times, serif;
+}
+#review p{
+  margin-left:10px;
+}
+
+.card-image{
+    overflow:hidden;
+}
+
+.card-image img{
+  transition:2s;
+}
+.card-image img:hover{
+  transform:scale(1.2);
+}
+h3 h4{
+  font-weight:800;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.x{
+  margin-top:40px;
+}
